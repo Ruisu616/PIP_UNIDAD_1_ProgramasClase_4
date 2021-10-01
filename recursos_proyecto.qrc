@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="Icono">
+    <file>Imagenes/MicrosoftTeams-image.png</file>
+  </qresource>
+  <qresource prefix="Logo uat">
+    <file>Imagenes/uat.png</file>
+  </qresource>
+  <qresource prefix="diaz">
+    <file>Imagenes/juan diaz.jpg</file>
+  </qresource>
+</RCC>
